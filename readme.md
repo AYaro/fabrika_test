@@ -14,6 +14,8 @@ $ docker run -p 8000:8000 test_task
 Пример работы?
 
   - /api/token/obtain/ - получение токена
+    по умолчанию username админа - admin
+    пароль - password1234
     пример: 
     ```
         curl --request POST \
