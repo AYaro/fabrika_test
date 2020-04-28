@@ -9,7 +9,7 @@ $ docker build -t test_task .
 $ docker run -p 8000:8000 test_task  
 ```
 Документвция после запуска будет доступна тут:
- http://localhost:8000/api/redoc/api/redoc
+ http://localhost:8000/api/redoc/
  
 Пример работы?
 
